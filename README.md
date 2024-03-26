@@ -1,2 +1,2 @@
-1.A Python library for delivery to external clients that can calculate the area of a circle by radius and of a triangle by three sides.
-2. PySpark application which defines dataframes (pyspark.sql.DataFrame) products, categories and their relationships. Each product corresponds to several categories or none. And each category corresponds to several products or none. It will return all “Product Name – Category Name” pairs and the names of all products that do not have categories.
+* A Python library for delivery to external clients that can calculate the area of a circle by radius and of a triangle by three sides.
+* PySpark application which defines dataframes (pyspark.sql.DataFrame) products, categories and their relationships. Each product corresponds to several categories or none. And each category corresponds to several products or none. It will return all “Product Name – Category Name” pairs and the names of all products that do not have categories.
